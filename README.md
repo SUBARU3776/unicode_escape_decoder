@@ -1,0 +1,2 @@
+# unicode_escape_decoder
+Unicodeエスケープシーケンスでエンコードされた日本語の文章をデコードするPythonスクリプトです。
